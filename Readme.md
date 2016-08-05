@@ -10,6 +10,11 @@
 
 > Rate limiting middleware backed by Redis for Koa v2+, built for [CrocodileJS][crocodile-url].
 
+---
+
+**NOTE: Currently this package does not work due to an issue with `ratelimiter`, please use <https://github.com/scttcper/koa-simple-ratelimit> instead**
+
+---
 
 ## Install
 
